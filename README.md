@@ -4,9 +4,9 @@ It is a great electronic pet game.
 # How to use
 1. Download the project.
 2. Open terminal.
-3. Open the project in the terminal.(cd My Pet)
-4. gcc main.c -o Pet.out
-5. ./Pet.out
+3. Open the project in the terminal.(  ``` cd MyPet ``` )
+4. ``` gcc main.c -o Pet.out ```
+5. ``` ./Pet.out ```
 6. Just play.
 
 # About
