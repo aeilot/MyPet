@@ -10,7 +10,7 @@ It is a great electronic pet game.
 6. Just play.
 
 # About
-* My Pet</br>
+* My Pet
 * Created LOUIS AEILOT D
 * Made with Xcode.
 * Copyright © 2017~2019 LOUIS STUDIO All rights reserved.
