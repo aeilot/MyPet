@@ -19,4 +19,5 @@ It is a great electronic pet game.
 * Made by Louis Studio.
 * v.1.1
 
+My another GitHub Account: MrRubber
 
