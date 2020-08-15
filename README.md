@@ -1,3 +1,5 @@
+# Not Maintained since 2018! Making it public to Memorize because it is my first repo!
+
 # MyPet
 It is a great electronic pet game.
 
